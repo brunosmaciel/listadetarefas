@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/futvolei/static/css/main.8cbdcf62.css",
-    "main.js": "/futvolei/static/js/main.24d69b9b.js",
+    "main.css": "/futvolei/static/css/main.4850971f.css",
+    "main.js": "/futvolei/static/js/main.c792b68c.js",
     "index.html": "/futvolei/index.html",
-    "main.8cbdcf62.css.map": "/futvolei/static/css/main.8cbdcf62.css.map",
-    "main.24d69b9b.js.map": "/futvolei/static/js/main.24d69b9b.js.map"
+    "main.4850971f.css.map": "/futvolei/static/css/main.4850971f.css.map",
+    "main.c792b68c.js.map": "/futvolei/static/js/main.c792b68c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cbdcf62.css",
-    "static/js/main.24d69b9b.js"
+    "static/css/main.4850971f.css",
+    "static/js/main.c792b68c.js"
   ]
 }
