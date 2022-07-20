@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/listadetarefas/static/css/main.325dfc88.css",
-    "main.js": "/listadetarefas/static/js/main.3ac2dc25.js",
-    "index.html": "/listadetarefas/index.html",
-    "main.325dfc88.css.map": "/listadetarefas/static/css/main.325dfc88.css.map",
-    "main.3ac2dc25.js.map": "/listadetarefas/static/js/main.3ac2dc25.js.map"
+    "main.css": "/futvolei/static/css/main.325dfc88.css",
+    "main.js": "/futvolei/static/js/main.3ac2dc25.js",
+    "index.html": "/futvolei/index.html",
+    "main.325dfc88.css.map": "/futvolei/static/css/main.325dfc88.css.map",
+    "main.3ac2dc25.js.map": "/futvolei/static/js/main.3ac2dc25.js.map"
   },
   "entrypoints": [
     "static/css/main.325dfc88.css",
