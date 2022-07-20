@@ -1,12 +1,56 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-body{
-    font-family: sans-serif;
-    background-color: #0a4f70;
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-button{
-    cursor: pointer;
+
+input {
+  border: none;
+  outline: none;
+}
+
+.times {
+  margin: 30px;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+
+.times input {
+  border-bottom: 1px solid black;
+  margin-left: 10px;
+  height: 40px;
+  width: 100%;
+}
+
+.times input::placeholder {
+  font-size: 25px;
+}
+
+.main-content {
+  width: 400px;
+  height: 600px;
+}
+
+.pontos {
+  background-color: red;
+  display: flex;
+  padding: 30px;
+  font-size: 24px;
+}
+
+.pontos button {
+  border: none;
+  background-color: transparent;
+  font-size: 24px;
+  margin-left: 10px;
+}
+
+.pontos p {
+  margin-right: 20px;
 }
