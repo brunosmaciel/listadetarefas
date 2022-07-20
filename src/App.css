@@ -38,7 +38,7 @@ input {
 }
 
 .pontos {
-  background-color: red;
+  border-bottom: 2px solid black;
   display: flex;
   padding: 30px;
   font-size: 24px;
