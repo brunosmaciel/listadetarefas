@@ -57,6 +57,57 @@ export default function App() {
         <button onClick={() => settimeDPontos(timeDPontos + 1)}>+</button>
         <button onClick={() => settimeDPontos(timeDPontos - 1)}>-</button>
       </div>
+      <div className="">
+        <div className="tabela">
+          <p>{timed}</p>
+          <input type="number" defaultValue={0} />
+          X
+          <input type="number" defaultValue={0} />
+          <p>{timeb}</p>
+
+        </div>
+        <div className="tabela">
+          <p>{timec}</p>
+          <input type="number" defaultValue={0} />
+          X
+          <input type="number" defaultValue={0} />
+          <p>{timea}</p>
+
+        </div>
+        <div className="tabela">
+          <p>{timed}</p>
+          <input type="number" defaultValue={0} />
+          X
+          <input type="number" defaultValue={0} />
+          <p>{timea}</p>
+
+        </div>
+        <div className="tabela">
+          <p>{timeb}</p>
+          <input type="number" defaultValue={0} />
+          X
+          <input type="number" defaultValue={0} />
+          <p>{timec}</p>
+
+        </div>
+        <div className="tabela">
+          <p>{timed}</p>
+          <input type="number" defaultValue={0} />
+          X
+          <input type="number" defaultValue={0} />
+          <p>{timec}</p>
+
+        </div>
+        <div className="tabela">
+          <p>{timea}</p>
+          <input type="number" defaultValue={0} />
+          X
+          <input type="number" defaultValue={0} />
+          <p>{timeb}</p>
+
+        </div>
+
+      </div>
     </div>
   );
 }
